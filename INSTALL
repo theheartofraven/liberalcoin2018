@@ -1,0 +1,9 @@
+Building Liberalcoin
+
+See doc/readme-qt.rst for instructions on building Liberalcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Liberalcoin.
+
+See doc/build-*.txt for instructions on building liberalcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Liberalcoin.
