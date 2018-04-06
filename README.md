@@ -9,17 +9,23 @@ Copyright (c) 2011-2014 Liberalcoin Developers
 What is Liberalcoin?
 ----------------
 
-Liberalcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 300k blocks (~2 years)
- - ~30 million total coins
+ 
+ Liberalcoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Litecoin, Liberalcoin currently employs a simplified variant of scrypt.
+  - 2.5 minute block targets
+  - subsidy halves in 300k blocks (~2 years)
+  - ~30 million total coins
+ 
 
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
+ 
+ 
 
-For more information, as well as an immediately useable, binary version of
-the Liberalcoin client sofware, see http://www.liberalcoin.org.
+Development
+-------
+
+Development is ongoing, and the development team, as well as other volunteers, can freely work in their own trees and submit pull requests when features or bug fixes are ready.
 
 License
 -------
